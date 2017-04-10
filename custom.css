@@ -1,6 +1,5 @@
-header {
+header, nav {
     background-color: lightblue;
-    border-bottom: 1px solid royalblue;
 }
 
 @media (max-width: 767px) {
@@ -17,12 +16,18 @@ h1 {
     font-family: Arial, Verdana, sans-serif;
 }
 
+a {
+    color: #005aab; // bild plava boja za linkove (svjetlija)
+}
+
 .pocetna {
     width: 99%;
     margin: auto;
 }
 
-.pocetna h1, .pocetna h2, .pocetna p {
+.pocetna h1,
+.pocetna h2,
+.pocetna p {
     text-align: center;
 }
 
@@ -35,12 +40,11 @@ h1 {
     height: auto;
     float: left;
 }
-#iframe_yt {
 
-}
-#iframe_yt iframe{
+#iframe_yt {}
+
+#iframe_yt iframe {
     display: block;
     width: 80%;
     margin: auto;
 }
-

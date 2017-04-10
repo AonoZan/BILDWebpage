@@ -21,12 +21,12 @@
 
 <body>
     <div class="container-fluid">
-        <header class="row">
+        <header class="row clearfix">
             <div class="visible-phone">
                 <div class="col-xs-12">
                     <img class="img-responsive center-block" src="graphics/Logo.png">
                 </div>
-                <div class="col-xs-12 text-center no-gutter">
+                <div class="col-xs-12 text-center">
                     <ul class="list-inline">
                         <li><a href="http://www.fb.me/openbosna" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a></li>
                         <li><a href="https://twitter.com/bildbosnia" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a></li>
@@ -36,24 +36,30 @@
             </div>
             <div class="hidden-phone">
                 <div class="col-sm-3">
-                    <img class="img-responsive" src="graphics/Logo.png">
+                    <img class="img-responsive bild-logo" src="graphics/Logo.png">
                 </div>
-                <div class="col-sm-3 pull-right">
+                <div class="col-sm-4 pull-right">
                     <ul class="fa-ul">
                         <li class="pull-right" style="margin-left:5px">
-                            <a href="http://www.fb.me/openbosna" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
+                            <a href="http://www.fb.me/openbosna" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                        </li>
+                        <li class="pull-right" style="margin-left:5px;color:#ff0000">
+                            <a href="https://twitter.com/bildbosnia" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
                         </li>
                         <li class="pull-right" style="margin-left:5px">
-                            <a href="https://twitter.com/bildbosnia" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>
-                        </li>
-                        <li class="pull-right" style="margin-left:5px">
-                            <a href="https://www.youtube.com/user/bildbosnia" target="_blank"><i class="fa fa-youtube-square fa-3x"></i></a>
+                            <a href="https://www.youtube.com/user/bildbosnia" target="_blank"><i class="fa fa-youtube-square fa-2x"></i></a>
                         </li>
                     </ul>
                 </div>
             </div>
         </header>
-        <nav>
+        <nav class="row clearfix">
+            <ul class="nav nav-tabs">
+              <li role="presentation" class="active"><a href="#">Home</a></li>
+              <li role="presentation"><a href="projects.html">Projects</a></li>
+              <li role="presentation"><a href="team.html">Team</a></li>
+              <li role="presentation"><a href="help.html">Help</a></li>
+            </ul>
         </nav>
         <section id="content" class="row-fluid">
             <article class="pocetna col-lg-12">
