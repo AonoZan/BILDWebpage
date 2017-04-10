@@ -9,6 +9,20 @@ h1 {
     min-height: 25px;
     float
 }
-pocetna {
-    background: "grafics/pocetna_pic.jpg";
+.pocetna {
+    width: 99%;
+    margin: auto;
 }
+.pocetna h1, .pocetna h2, .pocetna p {
+    text-align: center;
+}
+#pocetna_frame.row-fluid {
+    height: 100%;
+}
+#content {
+    float: left;
+    width: 100%;
+}
+
+
+

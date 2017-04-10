@@ -35,14 +35,44 @@
             </div>
         </div>
         <nav>
-            Nav
+            Navigacija
         </nav>
-        <section id="content">
-            <article>
-                <div class="jumbotron pocetna">
-                    <h1>Hello, world!</h1>
-                    <p>...</p>
-                </div>
+        <section id="content" class="row-fluid">
+            <article class="pocetna col-lg-12">
+                <h1>BILD</h1>
+                <h2>Bosnia Initiatives for Local Delvelopment</h2>
+                <p>Let's build a ruture for Bosnia's youth</p>
+                <p>Creating COMMON GROUND and a SHARED FUTURE through EDUCATION and ENTREPRENEURSHIP</p>
+            </article>
+        </section>
+        <section id="pocetna_frame" class="row-fluid">
+            <article id="iframe_yt" class="col-md-6">
+                <p>saoihefrsuigjkfbrkjghroghrougrbjgrklg,fbg</p>
+                <iframe width="550" height="355" src="https://www.youtube.com/embed/R-AZOpHCxBY" frameborder="0" allowfullscreen></iframe>
+                <p>BILD IT participants visiting IT companies based in the Bosmal City Center in Sarajevo.</p>
+            </article>
+            <article id="iframe_fb" class="col-md-6">
+                <p>fsdgfsgfdhgdthz</p>
+                <div id="fb-root"></div>
+                <script>
+                    window.fbAsyncInit = function() {
+                        FB.init({
+                            xfbml: true,
+                            version: 'v2.8'
+                        });
+                    };
+                    (function(d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) {
+                            return;
+                        }
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = "//connect.facebook.net/en_US/sdk.js";
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));
+                </script>
+                <div class="fb-like-box" data-href="https://www.facebook.com/openbosna" data-width="500" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="true" data-show-border="false"></div>
             </article>
         </section>
         <footer>
