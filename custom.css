@@ -1,28 +1,35 @@
 body {
     font-family: Arial, Verdana, sans-serif;
 }
+
 h1 {
     font-family: Arial, Verdana, sans-serif;
 }
-#social-links img {
-    height: 5%;
-    min-height: 25px;
-    float
-}
+
 .pocetna {
     width: 99%;
     margin: auto;
 }
+
 .pocetna h1, .pocetna h2, .pocetna p {
     text-align: center;
 }
-#pocetna_frame.row-fluid {
-    height: 100%;
-}
+
 #content {
     float: left;
     width: 100%;
 }
 
+#pocetna_frame.row-fluid {
+    width: 99%;
+    height: auto;
+    float: left;
+}
+#iframe_yt {
 
-
+}
+#iframe_yt iframe{
+    display: block;
+    width: 80%;
+    margin: auto;
+}
