@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666667 8.4666667"
+   version="1.1"
+   id="svg7392"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="FaviconProject.svg"
+   enable-background="new"
+   inkscape:export-filename="/home/aonozan/workspace/WebProjects/BILDITWebpage/graphics/favicon32x32.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008">
+  <defs
+     id="defs7386">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path8043"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8040"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7997">
+      <feBlend
+         inkscape:collect="always"
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7999" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.4215883"
+     inkscape:cx="12.175038"
+     inkscape:cy="15.576396"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     guidetolerance="20"
+     objecttolerance="19"
+     inkscape:snap-perpendicular="false"
+     inkscape:snap-tangential="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8036" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7389">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53333)"
+     style="filter:url(#filter7997);opacity:1">
+    <g
+       transform="matrix(0.02103651,0,0,0.02103651,-12.635101,282.21069)"
+       id="layer1-5"
+       inkscape:label="Layer 1"
+       style="">
+      <g
+         style="stroke:none"
+         transform="matrix(2.6457583,0,0,2.6457583,-528.73218,-104.4033)"
+         id="Sun Jan 29 11:40:42 2017-3">
+        <g
+           style="stroke:none"
+           id="BildITLogo-5">
+          <!-- start BildITLogo -->
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path7162"
+             d="m 577.3553,211.188 v 0 l -19.2996,17.5337 -41.5891,-42.1123 v -35.5612"
+             style="fill:#f79d3d;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path7158"
+             d="m 428.4788,185.7421 h 16.7838 v 87.4583 h -16.7838 z"
+             style="fill:#f79d3d;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             sodipodi:nodetypes="ccccccccc"
+             inkscape:connector-curvature="0"
+             id="path7156"
+             d="m 473.4908,201.5042 h -19.6527 v -15.7621 h 56.0893 v 15.7621 h -19.6527 v 71.6962 h -16.7839 z"
+             style="fill:#f79d3d;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0"
+             id="path7154"
+             d="M 577.3553,246.2553 558.0557,228.7217 577.3553,211.188 Z"
+             style="fill:#223e99;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path7150"
+             d="m 577.3553,246.2553 -60.8887,60.9364 v -36.8809 l 41.5891,-41.5891 z"
+             style="fill:#005aab;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <!-- end BildITLogo -->
+      </g>
+    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5.5999999;stroke-dasharray:0.3, 0.29999999999999999;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect8038"
+       width="8.4666662"
+       height="8.4666662"
+       x="0"
+       y="288.53333"
+       ry="1.8520881" />
+    <g
+       transform="matrix(0.01169731,0,0,0.01169731,0.7680254,286.88617)"
+       id="layer1-6"
+       inkscape:label="Layer 1">
+      <g
+         style="stroke:none"
+         transform="matrix(2.6457583,0,0,2.6457583,-528.73218,-104.4033)"
+         id="Sun Jan 29 11:40:42 2017">
+        <g
+           style="stroke:none"
+           id="BildITLogo">
+          <!-- start BildITLogo -->
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0"
+             id="path7160"
+             d="m 277.0747,185.7421 v 16.5035 l 16.7839,-16.5035 z"
+             style="fill:#f79d3d;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0"
+             id="path7152"
+             d="m 277.0747,202.2456 16.7839,16.854 v -33.3575 z"
+             style="fill:#223e99;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+             inkscape:connector-curvature="0"
+             d="m 236.46,185.7421 h -26.9387 v 87.4583 H 236.46 l 1.5616,-0.1121 2.0636,-0.355 2.448,-0.6258 2.7152,-0.9243 2.8649,-1.2508 2.8973,-1.6051 2.8122,-1.9872 2.6098,-2.3973 2.29,-2.8352 1.8527,-3.301 1.2982,-3.7945 0.6262,-4.3161 0.0938,-1.9486 0.0413,-1.9958 -0.0558,-2.0292 -0.1976,-2.0487 -0.3841,-2.0545 -0.6155,-2.0464 -0.8913,-2.0244 -1.212,-1.9888 -1.5772,-1.9391 -1.9874,-1.8758 -2.442,-1.7986 -2.9415,-1.7075 1.5375,-0.8661 1.4527,-0.9716 1.3585,-1.0861 1.2551,-1.2098 1.1424,-1.3428 1.0203,-1.4848 0.8889,-1.6362 0.7482,-1.7965 0.5982,-1.9661 0.4387,-2.145 0.2701,-2.3328 0.0921,-2.53 -0.3883,-4.1083 -1.0861,-3.5602 -1.6655,-3.0486 -2.1266,-2.5731 -2.4692,-2.1342 -2.6936,-1.7317 -2.7995,-1.3654 -2.7871,-1.0356 -2.6564,-0.7422 -2.4072,-0.485 -2.0397,-0.2644 z m -0.5128,49.0117 0.9871,0.1907 1.1595,0.3296 1.2758,0.4784 1.3359,0.6369 1.3399,0.8053 1.2878,0.9834 1.1795,1.1712 1.0151,1.3688 0.7946,1.5762 0.5179,1.7934 0.1851,2.0203 -0.1851,2.0202 -0.5179,1.7934 -0.7946,1.5762 -1.0151,1.3688 -1.1795,1.1712 -1.2878,0.9834 -1.3399,0.8053 -1.3359,0.6369 -1.2758,0.4784 -1.1595,0.3297 -0.9871,0.1906 -0.7585,0.0613 h -7.6808 v -22.8309 h 7.6808 z m -1.2069,-34.5788 0.8459,0.1634 0.9937,0.2825 1.0933,0.41 1.1449,0.5459 1.1483,0.69 1.1036,0.8428 1.0108,1.0037 0.8699,1.173 0.681,1.3508 0.4438,1.5369 0.1587,1.7314 -0.1587,1.7313 -0.4438,1.5369 -0.681,1.3508 -0.8699,1.1731 -1.0108,1.0037 -1.1036,0.8427 -1.1483,0.6901 -1.1449,0.5459 -1.0933,0.41 -0.9937,0.2825 -0.8459,0.1633 -0.6501,0.0526 h -6.5823 v -19.5658 h 6.5823 z"
+             style="fill:#005aab;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="path7144" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7142"
+             d="m 277.0747,202.2456 16.7839,16.854 v 54.1008 h -16.7839 z"
+             style="fill:#005aab;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path7140"
+             d="m 352.68,255.4705 h -26.0854 v -69.7284 h -16.7839 v 87.4583 H 352.68"
+             style="fill:#005aab;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+             inkscape:connector-curvature="0"
+             d="m 388.3486,202.2635 0.7644,0.1897 0.911,0.34 1.0113,0.5099 1.0655,0.6992 1.0734,0.908 1.0351,1.1365 0.9506,1.3843 0.8197,1.6518 0.6428,1.9387 0.4196,2.2452 0.1501,2.5712 v 1.7066 1.8816 2.0303 2.1527 2.2487 2.3187 2.3621 2.3794 2.3703 2.335 2.2733 2.1854 l -0.1501,2.6948 -0.4196,2.3683 -0.6428,2.0596 -0.8197,1.7682 -0.9506,1.4945 -1.0351,1.2382 -1.0734,0.9997 -1.0655,0.7785 -1.0113,0.5749 -0.911,0.389 -0.7644,0.2205 -0.5715,0.0696 h -9.7401 v -54.5332 h 9.7401 z m -0.2845,-16.5214 h -26.9387 v 87.4583 h 26.9387 l 1.5808,-0.1116 2.114,-0.3536 2.5195,-0.6238 2.7972,-0.9221 2.9468,-1.2485 2.9687,-1.6032 2.8628,-1.9859 2.629,-2.3967 2.2673,-2.8358 1.7778,-3.303 1.1605,-3.7984 0.4152,-4.3218 v -3.5048 -3.6459 -3.7447 -3.8015 -3.8159 -3.7883 -3.7185 -3.6066 -3.4524 -3.2561 -3.0176 -2.737 l -0.4152,-4.1236 -1.1605,-3.6007 -1.7778,-3.1093 -2.2673,-2.649 -2.629,-2.2202 -2.8628,-1.8226 -2.9687,-1.4563 -2.9468,-1.1213 -2.7972,-0.8177 -2.5195,-0.5453 -2.114,-0.3042 z"
+             style="fill:#005aab;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="curva_3D.BildITLogo" />
+        </g>
+        <!-- end BildITLogo -->
+      </g>
+    </g>
+  </g>
+</svg>
