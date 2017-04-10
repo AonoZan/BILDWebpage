@@ -21,7 +21,7 @@
 
 <body>
     <div class="container-fluid">
-        <header class="row clearfix">
+        <header class="row">
             <div class="visible-phone">
                 <div class="col-xs-12">
                     <img class="img-responsive center-block" src="graphics/Logo.png">
@@ -53,12 +53,32 @@
                 </div>
             </div>
         </header>
-        <nav class="row clearfix">
+        <nav class="row">
             <ul class="nav nav-tabs">
-              <li role="presentation" class="active"><a href="#">Home</a></li>
-              <li role="presentation"><a href="projects.html">Projects</a></li>
-              <li role="presentation"><a href="team.html">Team</a></li>
-              <li role="presentation"><a href="help.html">Help</a></li>
+                <li role="presentation" class="active"><a href="#">Home</a></li>
+                <li class="dropdown">
+                    <a href="projects/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="projects/summer_institute.html">Summer Institute</a></li>
+                        <li><a href="projects/it_workforce_development.html">IT Workforce Development</a></li>
+                        <li><a href="projects/internship.html">Internship</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="projects/empowering_women.html">Empowering women</a></li>
+                        <li><a href="projects/landmine_savior.html">Landmine Survivor</a></li>
+                        <li><a href="projects/flood_relief.html">Flood Relief</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="team/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Team <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="team/board_of_directors.html">Board of Directors</a></li>
+                        <li><a href="team/our_team.html">Our Team</a></li>
+                        <li><a href="team/our_volonteers.html">Our Volonteers</a></li>
+                        <li><a href="team/our_sponsors.html">Our Sponsors</a></li>
+                    </ul>
+                </li>
+                <li role="presentation"><a href="contact.html">Contact</a></li>
+                <li role="presentation"><a href="help.html">Help</a></li>
             </ul>
         </nav>
         <section id="content" class="row-fluid">
