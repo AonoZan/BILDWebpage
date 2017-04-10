@@ -17,42 +17,18 @@ h1 {
     font-family: Arial, Verdana, sans-serif;
 }
 
-<<<<<<< HEAD
-=======
-#social-links img {
-    height: 5%;
-    min-height: 25px;
-    float
-}
-
->>>>>>> origin/master
 .pocetna {
     width: 99%;
     margin: auto;
 }
 
-<<<<<<< HEAD
 .pocetna h1, .pocetna h2, .pocetna p {
-    text-align: center;
-}
-
-=======
-.pocetna h1,
-.pocetna h2,
-.pocetna p {
     text-align: center;
 }
 
 #pocetna_frame.row-fluid {
     height: 100%;
 }
-
->>>>>>> origin/master
-#content {
-    float: left;
-    width: 100%;
-}
-<<<<<<< HEAD
 
 #pocetna_frame.row-fluid {
     width: 99%;
@@ -67,5 +43,4 @@ h1 {
     width: 80%;
     margin: auto;
 }
-=======
->>>>>>> origin/master
+
