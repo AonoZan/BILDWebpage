@@ -53,11 +53,53 @@
                 </div>
             </div>
         </header>
-        <nav class="row">
-            <ul class="nav nav-tabs">
+        <!-- Based on: http://codepen.io/celincky/pen/zdqso -->
+        <nav class="row visible-phone">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-mobile">
+                    <span class="sr-only">Toggle navigation</span>
+                    <i class="fa fa-bars fa-4x bild-blue"></i>
+                </button>
+                <a class="navbar-brand" href="#page-top">Menu</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="navbar-mobile">
+                <ul class="nav navbar-nav navbar-left">
+                    <li role="presentation" class="active"><a href="#"> Home</a></li>
+                    <li class="dropdown">
+                        <a href="projects/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Projects <i class="fa fa-caret-left fa-1x bild-blue"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="projects/summer_institute.html">Summer Institute</a></li>
+                            <li><a href="projects/it_workforce_development.html">IT Workforce Development</a></li>
+                            <li><a href="projects/internship.html">Internship</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="projects/empowering_women.html">Empowering women</a></li>
+                            <li><a href="projects/landmine_savior.html">Landmine Survivor</a></li>
+                            <li><a href="projects/flood_relief.html">Flood Relief</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="team/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Team <i class="fa fa-caret-left fa-1x bild-blue"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="team/board_of_directors.html">Board of Directors</a></li>
+                            <li><a href="team/our_team.html">Our Team</a></li>
+                            <li><a href="team/our_volonteers.html">Our Volonteers</a></li>
+                            <li><a href="team/our_sponsors.html">Our Sponsors</a></li>
+                        </ul>
+                    </li>
+                    <li role="presentation"><a href="contact.html">Contact</a></li>
+                    <li role="presentation"><a href="help.html">Help</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </nav>
+        <nav class="row hidden-phone">
+            <ul class="nav nav-tabs shift-left">
                 <li role="presentation" class="active"><a href="#">Home</a></li>
                 <li class="dropdown">
-                    <a href="projects/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
+                    <a href="projects/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <i class="fa fa-caret-down fa-1x bild-blue"></i></a>
                     <ul class="dropdown-menu">
                         <li><a href="projects/summer_institute.html">Summer Institute</a></li>
                         <li><a href="projects/it_workforce_development.html">IT Workforce Development</a></li>
@@ -69,7 +111,7 @@
                     </ul>
                 </li>
                 <li class="dropdown">
-                    <a href="team/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Team <span class="caret"></span></a>
+                    <a href="team/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Team <i class="fa fa-caret-down fa-1x bild-blue"></i></a>
                     <ul class="dropdown-menu">
                         <li><a href="team/board_of_directors.html">Board of Directors</a></li>
                         <li><a href="team/our_team.html">Our Team</a></li>

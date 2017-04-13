@@ -2,8 +2,9 @@ header,
 nav {
     background-color: lightblue;
 }
-nav {
-    padding-left: 20px;
+
+.shift-left {
+    margin-left: 20px;
 }
 
 @media (max-width: 767px) {
@@ -22,8 +23,13 @@ h2 {
     font-weight: bold;
 }
 
-a {
+.bild-blue, a {
     color: #005aab; // bild plava boja za linkove (svjetlija)
+}
+
+.navbar-brand {
+    font-size: 2.5em;
+    padding-top: 6%;
 }
 
 .pocetna {
