@@ -61,6 +61,12 @@ h2 {
     color: #005aab; // bild plava boja za linkove (svjetlija)
 }
 
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #f79d3d;
+    background-color: #fff;
+    border: 0;
+}
+
 .img-custom {
     display: inline-block;
     max-width: 100%;
@@ -85,16 +91,25 @@ h2 {
     border: 0px;
 }
 .nav>li>a:focus, .nav>li>a:hover {
-    background-color: #FF9900;
+    background-color: #f79d3d;
 }
 .nav-tabs>li>a {
     margin-right: 0;
     border-radius: 0;
     border: 0;
 }
-
+.dropdown-menu {
+    margin: 0;
+    border: 0 solid lightblue;
+    -webkit-box-shadow: 0 6px 12px lightblue;
+    box-shadow: 0 6px 12px lightblue;
+}
+.nav-tabs .dropdown-menu {
+    margin-top: 0;
+}
 .nav-tabs>li {
-    margin-bottom: -2px;
+    font-weight: bold;
+    margin-bottom: 0;
 }
 a:focus {
     outline-offset: 0;
