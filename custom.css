@@ -4,7 +4,10 @@ nav {
     background-color: lightblue;
 }
 
-footer {
+footer,
+.pocetna h1,
+.pocetna h2,
+.pocetna p{
     text-align: center;
 }
 
@@ -61,12 +64,6 @@ h2 {
     color: #005aab; // bild plava boja za linkove (svjetlija)
 }
 
-.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
-    color: #f79d3d;
-    background-color: #fff;
-    border: 0;
-}
-
 .img-custom {
     display: inline-block;
     max-width: 100%;
@@ -91,13 +88,14 @@ h2 {
     border: 0px;
 }
 .nav>li>a:focus, .nav>li>a:hover {
-    background-color: #f79d3d;
+    background-color: #FF9900;
 }
 .nav-tabs>li>a {
     margin-right: 0;
     border-radius: 0;
     border: 0;
 }
+
 .dropdown-menu {
     margin: 0;
     border: 0 solid lightblue;
@@ -110,9 +108,9 @@ h2 {
 .nav-tabs .dropdown-menu {
     margin-top: 0;
 }
+
 .nav-tabs>li {
-    font-weight: bold;
-    margin-bottom: 0;
+    margin-bottom: -2px;
 }
 a:focus {
     outline-offset: 0;
@@ -121,12 +119,6 @@ a:focus {
 .navbar-brand {
     font-size: 2.5em;
     padding-top: 6%;
-}
-
-.pocetna h1,
-.pocetna h2,
-.pocetna p {
-    text-align: center;
 }
 
 #p_banner {
@@ -140,11 +132,6 @@ a:focus {
     color: #FFF;
     font-size: 1em;
     line-height: 1.4;
-}
-
-#pocetna_frame {
-    height: auto;
-    float: left;
 }
 
 #iframe_yt h3 {
@@ -181,4 +168,10 @@ hr {
 }
 #work_map h2 {
     margin-bottom: 20px;
+}
+.bold, .more{
+    font-weight: bold;
+}
+.more a {
+    color: lightblue;
 }
