@@ -156,6 +156,9 @@ hr {
 #work_map h2 {
     margin-bottom: 20px;
 }
-.bold {
+.bold, .more{
     font-weight: bold;
+}
+.more a {
+    color: lightblue;
 }
