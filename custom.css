@@ -3,6 +3,7 @@ footer,
 nav {
     background-color: lightblue;
 }
+
 footer {
     text-align: center;
 }
@@ -11,10 +12,36 @@ footer {
     margin-left: 20px;
 }
 
+/* Margin and padding adjusting */
+
 @media (max-width: 767px) {
     body {
         padding: 0px;
     }
+}
+
+@media (min-width: 1200px) {
+    .row {
+        margin-left: -15px;
+    }
+}
+
+@media (max-width: 979px) and (min-width: 768px) {
+    .row {
+        margin-left: -15px;
+    }
+}
+
+@media (max-width: 767px) {
+    .row,
+    .thumbnails {
+        margin-left: -15px;
+    }
+}
+
+.nav-tabs {
+    border-bottom: 0;
+    margin-top: 10px;
 }
 
 body {
@@ -27,8 +54,31 @@ h2 {
     font-weight: bold;
 }
 
+
+/* Custom coloring and styles */
+
 .bild-blue, a {
     color: #005aab; // bild plava boja za linkove (svjetlija)
+}
+
+.img-custom {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+    line-height: 1.42857143;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.content,
+.img-custom {
+    background-color: #ffffce;
+}
+
+.container {
+    background-color: white;
 }
 
 .navbar-brand {
