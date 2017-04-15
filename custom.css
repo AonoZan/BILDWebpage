@@ -81,6 +81,25 @@ h2 {
     background-color: white;
 }
 
+.nav-tabs>li>a:hover {
+    border: 0px;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: #FF9900;
+}
+.nav-tabs>li>a {
+    margin-right: 0;
+    border-radius: 0;
+    border: 0;
+}
+
+.nav-tabs>li {
+    margin-bottom: -2px;
+}
+a:focus {
+    outline-offset: 0;
+}
+
 .navbar-brand {
     font-size: 2.5em;
     padding-top: 6%;
@@ -106,7 +125,6 @@ h2 {
 }
 
 #pocetna_frame {
-    width: 99%;
     height: auto;
     float: left;
 }
@@ -125,6 +143,7 @@ h2 {
     width: 85%;
     margin: auto;
 }
+
 .main_booton_grpup button{
     width: 170px;
     color:#FF9900;
