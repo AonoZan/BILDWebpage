@@ -80,8 +80,23 @@ h2 {
     width: 85%;
     margin: auto;
 }
-
-#iframe_fb {
-    margin-top: 10px;
-    padding: 0 5%;
+.main_booton_grpup button{
+    width: 170px;
+    color:#FF9900;
+    font-weight: bold;
+}
+.main_booton_grpup button:hover {
+    background-color: lightblue;
+    color:#FFF;
+    font-weight: bold;
+}
+#work_map img {
+    width: 80%;
+    height: auto;
+}
+hr {
+    border-color: lightblue;
+}
+#work_map h2 {
+    margin-bottom: 20px;
 }
