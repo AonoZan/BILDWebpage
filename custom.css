@@ -104,6 +104,9 @@ h2 {
     -webkit-box-shadow: 0 6px 12px lightblue;
     box-shadow: 0 6px 12px lightblue;
 }
+.nav-tabs>.dropdown:hover .dropdown-menu {
+    display: block;
+}
 .nav-tabs .dropdown-menu {
     margin-top: 0;
 }
