@@ -7,13 +7,14 @@ nav {
 footer,
 .pocetna h1,
 .pocetna h2,
-.pocetna p{
+.pocetna p {
     text-align: center;
 }
 
 .shift-left {
     margin-left: 20px;
 }
+
 
 /* Margin and padding adjusting */
 
@@ -60,23 +61,30 @@ h2 {
 
 /* Custom coloring and styles */
 
-.bild-blue, a {
+.bild-blue,
+a {
     color: #005aab; // bild plava boja za linkove (svjetlija)
 }
 
-.img-custom {
+.img-custom,
+.img-custom>img {
     display: inline-block;
     max-width: 100%;
     height: auto;
     padding: 10px;
+    border-radius: 0;
     line-height: 1.42857143;
     -webkit-transition: all .2s ease-in-out;
     -o-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
 }
 
-.content,
-.img-custom {
+.img-custom,
+.img-custom>img {
+    border: 1px solid lightblue;
+}
+
+.content {
     background-color: #ffffce;
 }
 
@@ -84,12 +92,22 @@ h2 {
     background-color: white;
 }
 
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover {
+    color: #f79d3d;
+    cursor: default;
+    border: 0;
+}
+
 .nav-tabs>li>a:hover {
     border: 0px;
 }
-.nav>li>a:focus, .nav>li>a:hover {
+
+.nav>li>a:focus,
+.nav>li>a:hover {
     background-color: #f79d3d;
 }
+
 .nav-tabs>li>a {
     margin-right: 0;
     border-radius: 0;
@@ -102,16 +120,19 @@ h2 {
     -webkit-box-shadow: 0 6px 12px lightblue;
     box-shadow: 0 6px 12px lightblue;
 }
+
 .nav-tabs>.dropdown:hover .dropdown-menu {
     display: block;
 }
+
 .nav-tabs .dropdown-menu {
     margin-top: 0;
 }
 
 .nav-tabs>li {
-    margin-bottom: -2px;
+    margin-bottom: 0;
 }
+
 a:focus {
     outline-offset: 0;
 }
@@ -149,32 +170,44 @@ a:focus {
     margin: auto;
 }
 
-.main_booton_grpup button{
+.main_booton_grpup button {
     width: 170px;
-    color:#f79d3d;
+    color: #f79d3d;
     font-weight: bold;
 }
+
 .main_booton_grpup button:hover {
     background-color: lightblue;
-    color:#FFF;
+    color: #FFF;
     font-weight: bold;
 }
+
 #work_map img {
     width: 80%;
     height: auto;
 }
+
 hr {
     border-color: lightblue;
 }
+
 #work_map h2 {
     margin-bottom: 20px;
 }
+<<<<<<< HEAD
 .bold, .more, .name{
+=======
+
+.bold,
+.more {
+>>>>>>> origin/master
     font-weight: bold;
 }
+
 .more a {
     color: lightblue;
 }
+
 
 /* custom carousel */
 
@@ -183,21 +216,24 @@ hr {
     margin-right: -15px;
 }
 
-.carousel .item img{
-    margin: 0 auto; /* Align slide image horizontally center */
+.carousel .item img {
+    margin: 0 auto;
+    /* Align slide image horizontally center */
 }
 
-.carousel-control.left, .carousel-control.right {
-    background-image: -webkit-linear-gradient(left,rgba(0,0,0,.0) 0,rgba(0,0,0,.0) 100%);
-    background-image: -o-linear-gradient(left,rgba(0,0,0,.0) 0,rgba(0,0,0,.0) 100%);
-    background-image: -webkit-gradient(linear,left top,right top,from(rgba(0,0,0,.0)),to(rgba(0,0,0,.0)));
-    background-image: linear-gradient(to right,rgba(0,0,0,.0) 0,rgba(0,0,0,.0) 100%);
+.carousel-control.left,
+.carousel-control.right {
+    background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0) 0, rgba(0, 0, 0, .0) 100%);
+    background-image: -o-linear-gradient(left, rgba(0, 0, 0, .0) 0, rgba(0, 0, 0, .0) 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .0)), to(rgba(0, 0, 0, .0)));
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .0) 0, rgba(0, 0, 0, .0) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#00000000', GradientType=1);
 }
 
 .carousel-control {
     padding-top: 75px;
 }
+
 
 /* custom button */
 
@@ -207,7 +243,8 @@ hr {
     border-color: lightcyan;
 }
 
-.btn-bild.focus, .btn-bild:focus {
+.btn-bild.focus,
+.btn-bild:focus {
     color: #fff;
     background-color: #005aab;
 }
