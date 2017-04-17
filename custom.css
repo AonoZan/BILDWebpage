@@ -169,7 +169,7 @@ hr {
 #work_map h2 {
     margin-bottom: 20px;
 }
-.bold, .more{
+.bold, .more, .name{
     font-weight: bold;
 }
 .more a {
@@ -210,4 +210,10 @@ hr {
 .btn-bild.focus, .btn-bild:focus {
     color: #fff;
     background-color: #005aab;
+}
+.ljudi_cap {
+    padding: 8% 0;
+}
+.job {
+    font-style: italic;
 }
