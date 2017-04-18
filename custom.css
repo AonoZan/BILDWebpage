@@ -62,9 +62,13 @@ h2 {
 /* Custom coloring and styles */
 
 .bild-blue,
+h1,
+h2,
+h3,
 a {
     color: #005aab; // bild plava boja za linkove (svjetlija)
 }
+
 
 .img-custom,
 .img-custom>img {
