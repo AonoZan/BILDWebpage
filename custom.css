@@ -96,6 +96,11 @@ a {
     background-color: white;
 }
 
+header, nav {
+    background-image: url(graphics/background.svg);
+    background-attachment: fixed;
+}
+
 .nav-tabs>li.active>a,
 .nav-tabs>li.active>a:hover {
     color: #f79d3d;
